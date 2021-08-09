@@ -1,0 +1,39 @@
+#paragraph{
+    float: left;
+    width:30%;
+    padding:0 30px;
+    box-sizing:border-box;
+    color:white;
+    margin-bottom: 50px;
+    margin-left:10%;
+    font-size: 125%;
+    background-color: black;
+}
+
+
+table, th, td {
+    
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left:20px;
+    
+  }
+
+  table {
+    float:left;
+    background-color: rgb(199, 197, 197);
+    color:black;
+    margin-left:40px;
+  }
+
+
+
+#comment{
+    float: right;
+    width: 38.5%;
+    height: 65px;
+    border: 1.5px solid rgb(20, 20, 20);
+    margin-left: 5%;
+    margin-bottom: 20%;
+    background: rgb(255, 255, 255);
+}
